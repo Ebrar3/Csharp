@@ -1,0 +1,7 @@
+D:\Masaüstü\Coding\C#\Firstly\Methods\obj\Debug\Methods.csproj.AssemblyReference.cache
+D:\Masaüstü\Coding\C#\Firstly\Methods\obj\Debug\Methods.csproj.CoreCompileInputs.cache
+D:\Masaüstü\Coding\C#\Firstly\Methods\bin\Debug\Methods.exe.config
+D:\Masaüstü\Coding\C#\Firstly\Methods\bin\Debug\Methods.exe
+D:\Masaüstü\Coding\C#\Firstly\Methods\bin\Debug\Methods.pdb
+D:\Masaüstü\Coding\C#\Firstly\Methods\obj\Debug\Methods.exe
+D:\Masaüstü\Coding\C#\Firstly\Methods\obj\Debug\Methods.pdb

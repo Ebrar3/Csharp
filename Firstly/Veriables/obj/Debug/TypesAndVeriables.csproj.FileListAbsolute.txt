@@ -1,0 +1,11 @@
+C:\Masaüstü\Coding\C#\Firstly\Veriables\bin\Debug\Veriables.exe.config
+C:\Masaüstü\Coding\C#\Firstly\Veriables\bin\Debug\Veriables.exe
+C:\Masaüstü\Coding\C#\Firstly\Veriables\bin\Debug\Veriables.pdb
+C:\Masaüstü\Coding\C#\Firstly\Veriables\obj\Debug\TypesAndVeriables.csproj.AssemblyReference.cache
+C:\Masaüstü\Coding\C#\Firstly\Veriables\obj\Debug\TypesAndVeriables.csproj.CoreCompileInputs.cache
+C:\Masaüstü\Coding\C#\Firstly\Veriables\obj\Debug\Veriables.exe
+C:\Masaüstü\Coding\C#\Firstly\Veriables\obj\Debug\Veriables.pdb
+D:\Masaüstü\Coding\C#\Firstly\Veriables\obj\Debug\TypesAndVeriables.csproj.AssemblyReference.cache
+D:\Masaüstü\Coding\C#\Firstly\Veriables\obj\Debug\TypesAndVeriables.csproj.CoreCompileInputs.cache
+D:\Masaüstü\Coding\C#\Firstly\Veriables\obj\Debug\Veriables.exe
+D:\Masaüstü\Coding\C#\Firstly\Veriables\obj\Debug\Veriables.pdb
